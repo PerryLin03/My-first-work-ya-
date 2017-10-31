@@ -1,0 +1,24 @@
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+*{
+  font-family: 'Noto Sans TC', sans-serif;
+}
+h2{color: pink; background-image: url("images.jpg"); background-repeat: no-repeat;}
+.s1{color: purple;}
+#breakfast{color: brown;background-color: #9988bb;font-size: 30px;font-style: italic;
+  background-image: url("images.jpg");background-repeat: repeat;background-position: center bottom;}
+span{color: orange;}
+div{color: red;}
+.back_to_top{position: fixed;bottom: 10px;right: 17px;border-style: dashed;
+border-color: steelblue;
+border-top-color: slateblue;
+border-left-color: violet;
+border-right-color: rgb(152, 197, 192);
+border-width: 11px;
+background-color: springgreen;}
+.nav_bar{height: 80px;
+         width: 100%;
+         padding-left: 10px;
+         margin-left: -10px;
+       }
+.tetext_align_right_right{text-align: left;}
+.background-red{background-color:red;}
